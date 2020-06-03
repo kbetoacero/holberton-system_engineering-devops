@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo mv [[:lower:]]* /tmp/u
+sudo mv [[:lower:]]* /tmp/u \n
