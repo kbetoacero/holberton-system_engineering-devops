@@ -1,2 +1,1 @@
-# holberton-system_engineering-devops
-Shell Basics Project
+#Shell basics
