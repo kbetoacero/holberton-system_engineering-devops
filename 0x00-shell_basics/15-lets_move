@@ -1,2 +1,2 @@
 #!/bin/bash
-mv [[:lower:]]* /tmp/u
+mv -f [[:lower:]]* /tmp/u
