@@ -1,2 +1,2 @@
 #!/bin/bash/
-echo $'Hello Wold' \n
+echo $"Hello, Wold"
